@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /space/
+Disallow: /hi/space/
+
+Sitemap: https://sevarthinc.com/sitemap.xml
